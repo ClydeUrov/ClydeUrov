@@ -53,13 +53,11 @@ In general, I strive for constant self-improvement and becoming the best in my f
 
 An online portfolio where I showcase my projects and skills. Built with React.js and deployed on Netlify.
 
-![Project 1 Screenshot](https://via.placeholder.com/500x300)
 
 ### [Project 2: E-commerce Web App](https://github.com/ClydeUrov/e-commerce-app)
 
 A full-fledged e-commerce web application. Implemented using Django for the backend and React.js for the frontend.
 
-![Project 2 Screenshot](https://via.placeholder.com/500x300)
 
 ## Connect
 
