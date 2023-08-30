@@ -1,4 +1,4 @@
-# Hi there, I'm Vladyslav Yurov!
+# Hi there, I'm Vladyslav!
 
 Welcome to my GitHub profile. I'm a passionate software developer with a focus on web development and frontend.
 
@@ -9,6 +9,12 @@ Welcome to my GitHub profile. I'm a passionate software developer with a focus o
 I strive to create creative and innovative web applications that make the world more interesting. My coding journey started long ago and gradually evolved into a professional endeavor.
 
 ## Technologies
+
+## Мои навыки и технологии
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
 I'm confident in working with various technologies and tools:
 
