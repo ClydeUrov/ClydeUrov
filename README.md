@@ -49,18 +49,18 @@ In general, I strive for constant self-improvement and becoming the best in my f
 
 ## Project Examples
 
-### [Project 1: Online Portfolio](https://github.com/ClydeUrov/portfolio)
+### [Project 1: Social Media App](https://github.com/ClydeUrov/Django_React)
 
-An online portfolio where I showcase my projects and skills. Built with React.js and deployed on Netlify.
+A tourism and entertainment social network application written in Django Rest Framework and React. Here you can find new friends, activities and events in your city. Enjoy yourself!
 
 
-### [Project 2: E-commerce Web App](https://github.com/ClydeUrov/e-commerce-app)
+### [Project 2: Web App](https://github.com/ClydeUrov/e-commerce-app)
 
 A full-fledged e-commerce web application. Implemented using Django for the backend and React.js for the frontend.
 
 
 ## Connect
 
-You can reach out to me on [LinkedIn](https://www.linkedin.com/in/your-username) or [Twitter](https://twitter.com/your-username).
+You can reach out to me on [LinkedIn]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D1%8E%D1%80%D0%BE%D0%B2-291b78276/)) or [Telegram](https://t.me/ClydeGrif).
 
 Thanks for visiting my profile! Looking forward to new connections and collaborative projects.
